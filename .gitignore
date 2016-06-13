@@ -1,0 +1,6 @@
+//Vim swap
+*.swp
+
+//CSharp compiled
+*.exe
+
